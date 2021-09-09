@@ -1,0 +1,177 @@
+.btn{
+    background:  #589130;
+    color: #191636;
+    border:none;
+    width:150px;
+    height: 40px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-left: 120px;
+    transition: all 0.5s ease;
+}
+.btn:hover{
+     background:  black;
+    color: gray;
+}
+body, html {
+	height: 100%;
+}
+.bg {
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+ 
+div.background {
+  background: url(klematis.jpg) repeat;
+  border: 2px solid black;
+}
+
+.fir {
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+p {
+	line height: 20px;
+	font-size: 16px;
+	margin-top: 10px;
+	margin-left: 100px;
+	color: #589130;
+}
+
+.navbar-nav li a:hover{
+	color: black;
+	background: #d9232d;
+	
+} 
+.navbar-nav li a{
+	color: white;
+	text-decoration:none;  
+	background: transparent;
+	
+	
+}
+
+.inner1{
+	margin-left: 50px;
+    width: 300px;
+    height: 250px;
+    clear:both;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+   /* border-radius: 100%;*/
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner1:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}
+.inner2{
+	margin-left: 50px;
+    width: 300px;
+    height: 250px;
+    clear:both;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+   /* border-radius: 100%;*/
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner2:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}
+.inner3{
+	margin-left: 50px;
+    width: 300px;
+    height: 250px;
+    clear:both;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+   /* border-radius: 100%;*/
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner3:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}
+.inner4{
+	margin-left: 50px;
+    width: 300px;
+    height: 250px;
+    clear:both;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+   /* border-radius: 100%;*/
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner4:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}
+.inner5{
+	margin-left: 50px;
+    width: 300px;
+    height: 250px;
+    clear:both;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+   /* border-radius: 100%;*/
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner5:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}
+.inner6{
+	margin-left: 50px;
+    width: 300px;
+    height: 250px;
+    clear:both;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+   /* border-radius: 100%;*/
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner6:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}

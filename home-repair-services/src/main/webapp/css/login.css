@@ -1,0 +1,82 @@
+@import "bourbon";
+	
+body{
+	background-color: #191636;
+	width: 50%;
+    margin: auto;
+}
+
+.maindiv{
+    color: gray;
+   width: 100%;
+    margin: auto;
+    margin-top: 70px;
+    border: 2px solid #191636;
+}
+.headerdiv{
+    width:100%;
+    font-size: 22px;
+    line-height: 50px;
+    text-align: center;
+    background:  black;
+    color: gray;
+     border: 2px solid;
+}
+.tbl{
+    width:100%;
+    
+    color:gray;
+    margin-top: 30px;
+   
+}
+.navbar{
+	width:100%;
+	 color:#d9232d;
+	font-size:14px;
+	text-transform:uppercase;
+	font-family: 'allerregular';
+	padding:10px 17px;
+	text-decoration: none;
+}
+.form-control {
+	margin-bottom: 10px;
+	
+}
+.txtbox{
+    width:100%;
+    height: 30px;
+}
+.btn{
+    background:  #191636;
+    color: #589130;
+    border:none;
+    width:100px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all 0.5s ease;
+}
+.btn:hover{
+     background:  black;
+    color: gray;
+}
+.text-center{
+    text-align: center;
+}
+.content{
+    border-top:1px solid #aaa4a4;
+    border-bottom:1px solid #aaa4a4;
+}
+.footer{
+    line-height: 50px;
+    color: black;
+}
+.fleft{
+	color: gray;
+	margin-left: 20px;
+}
+.fltright {
+	float: right;
+	color: gray;
+	margin-right: 20px;
+}

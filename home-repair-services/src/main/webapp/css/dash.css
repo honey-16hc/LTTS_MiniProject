@@ -1,0 +1,108 @@
+.top_bar{
+	color: #589130;
+	padding: 5px;
+	float: right;
+	width: 100%;
+	background-color: #191636;
+}
+.content {
+	margin-top: 40px;
+	margin-right: 10px;
+	width: 100%;
+
+}
+.button1 {
+	width: 175px;
+	background: #191636;
+	font-size: 16px;
+	border: 1px solid #589130;
+	
+}
+.side {
+	float: left;
+	background: #191636;
+	width: 250px;
+	height: 800px;
+	
+}
+.scroll{
+	font-size: 20px;
+}
+.scroll:hover {
+	background-color: #589130;
+}
+li:hover
+{
+	background-color:red;
+}
+body {
+	background: #589130;
+}
+.btn{
+    background:  #191636;
+    color: #589130;
+    border:none;
+    width:100px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    transition: all 0.5s ease;
+}
+.btn:hover{
+     background:  black;
+    color: gray;
+}
+.form-control {
+	margin-bottom: 10px;
+	
+}
+.table {
+	margin-left: 150px;
+    border: 2px solid #191636;
+   margin: auto;
+}
+.form-group {
+	float: right;
+	width: 50%;
+	height: 500px;
+	margin-right: 350px;
+margin-top: 100px;
+
+}
+.container {
+	width: 200px;
+	margin-left: 7px;
+}
+.head {
+	font-size: 20px;
+	font-style: bold;
+}
+.colorf {
+	color: #589130;
+}
+.inner2{
+	margin-left: 30px;
+	margin-top: 20px;
+	color: #589130;
+}
+.inner3{
+	margin-left: 30px;
+	margin-top: 10px;
+	color: #589130;
+}
+.inner1{
+	margin-left: 20px;
+    width:200px;
+    min-height: 200px;
+    clear:both;
+    border-radius: 100%;
+    border: 1px solid #777;
+    background-size: 100%;
+    transition: all 0.5s ease;
+}
+.inner1:hover{
+    box-shadow: 0px 0px 20px #ccc;
+    /*tsransform: rotate(360deg);*/
+    /*background-size: 80%;*/
+    transform: translate(100%,0px);
+}
