@@ -5,7 +5,7 @@ The on-demand home service system is extremely useful for anyone who needs
 
 | Code Quality        | Code Inspector        | 
 | ------------- |:-------------:| 
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/96c116a42a654f62995a2391bce6b7a9)](https://www.codacy.com/gh/honey-16hc/Mini_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=honey-16hc/Mini_Project&amp;utm_campaign=Badge_Grade)    |[![Codacy Badge](https://www.code-inspector.com/project/26185/score/svg)   |
+| [![Codacy Badge](https://www.code-inspector.com/project/28424/score/svg)    |[![Codacy Badge](https://www.code-inspector.com/project/28424/status/svg)   |
 
 
 ## Contributors List and Summary
