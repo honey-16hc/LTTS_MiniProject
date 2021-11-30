@@ -23,9 +23,9 @@ public class EmailController {
 	@RequestMapping(value = "/sendemail", method = RequestMethod.POST)
 	public String sendEmail(HttpServletRequest request,Model model){
 		
-		String message = "Hello debartha!! Kemon Aacho?";
+		String message = "Hello!!";
 		String subject = "Greeting mail";
-		String to = "mail2debartha@gmail.com";
+		String to = "***@gmail.com";
 		boolean result = this.emailService.sendEmail(message,subject,to);
 		if(result) {
 	//	return new ModelAndView("save");
